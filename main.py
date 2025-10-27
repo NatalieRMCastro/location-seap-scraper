@@ -32,7 +32,7 @@ def main():
 
         ## generating the parents from the edges
         parents = suggests.add_parent_nodes(edges)
-        location_pulls.append(grandparents
+        location_pulls.append(parents)
 
         ## generating the grandparents from the parents
         grandparents = parents.apply(suggests.add_metanodes,axis=1)

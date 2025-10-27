@@ -45,7 +45,7 @@ def main():
 
     print (seed)
     
-    df.to_csv(f'{seed}-autocomplete.csv')
+    df.to_csv(f'seap-data/{seed}-autocomplete.csv')
 
 
 if __name__=="__main__":

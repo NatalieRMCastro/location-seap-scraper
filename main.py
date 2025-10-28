@@ -11,6 +11,11 @@ def main():
     city_list = pd.read_csv("USA City Locs.csv")
     loc_query_tails = city_list['City State Query'].to_list()
 
+    ''' CREATING A TIMER FOR GITHUB ACTIONS ''' 
+    ##max_duration = 19800 ## 5.5 hours
+    max_duration = 600 ## testing 10 minutes
+    start_time = time.time()
+
        
     ## Iterating through each seed query, assigning a variable to the seed
     for seed in loc_query_tails:
@@ -42,6 +47,12 @@ def main():
         df.to_csv(f'seap-data/{seed}-autocomplete.csv')
         ## sleeping
         sleep(1.5)
+
+        ## Checking time elapsed
+        if time.time() - start_time > max_duration:
+            print ("\n\n\n⏰ Time to Restart the Action")
+            print (f"Stopped Location: {seed}")
+            break
 
 
 

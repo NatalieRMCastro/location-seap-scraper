@@ -1,8 +1,6 @@
 import pandas as pd
 import suggests
 import time
-from time import gmtime, strftime, time
-from time import sleep
 
 
 def main():
@@ -47,7 +45,7 @@ def main():
         df = pd.concat(location_pulls)
         df.to_csv(f'seap-data/{seed}-autocomplete.csv')
         ## sleeping
-        sleep(1.5)
+        time.sleep(1.5)
 
         ## Checking time elapsed
         if time.time() - start_time > max_duration:

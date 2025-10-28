@@ -17,7 +17,7 @@ def main():
 
        
     ## Iterating through each seed query, assigning a variable to the seed
-    for seed in loc_query_tails[4:]:
+    for seed in loc_query_tails[125:]:
         print (f"🔍🐛🗺️ | Searching in {seed}")
         ## generating holder items:
         location_pulls = []

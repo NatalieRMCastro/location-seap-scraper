@@ -41,7 +41,8 @@ def main():
         location_pulls.append(parents)
 
         ## Saving the SEAPs
-        location_pulls.to_csv(f'seap-data/{seed}-autocomplete.csv')
+        df = pd.concat(location_pulls)
+        df.to_csv(f'seap-data/{seed}-autocomplete.csv')
         ## sleeping
         sleep(1.5)
 

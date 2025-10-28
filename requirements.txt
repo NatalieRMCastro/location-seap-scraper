@@ -1,3 +1,2 @@
 suggests @ git+https://github.com/gitronald/suggests@9109ae8e9f5fcfba1bff7cdfd0be42990edeebe7
 pandas==2.*
-time==3.*

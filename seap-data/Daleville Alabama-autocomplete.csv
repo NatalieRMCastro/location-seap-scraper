@@ -1,0 +1,19 @@
+,root,edge,source,target,rank,depth,search_engine,datetime,grandparent,parent
+0,jobs in daleville alabama,"('jobs in daleville alabama', 'jobs hiring in daleville al')",jobs in daleville alabama,jobs hiring in daleville al,1,0,google,2025-10-28 19:51:18.426666,,
+1,jobs in daleville alabama,"('jobs in daleville alabama', 'jobs in daleville al')",jobs in daleville alabama,jobs in daleville al,2,0,google,2025-10-28 19:51:18.426666,,
+2,jobs in daleville alabama,"('jobs hiring in daleville al', 'jobs near daleville al')",jobs hiring in daleville al,jobs near daleville al,1,1,google,2025-10-28 19:51:19.896257,,jobs in daleville alabama
+3,jobs in daleville alabama,"('jobs hiring in daleville al', 'daleville alabama jobs')",jobs hiring in daleville al,daleville alabama jobs,2,1,google,2025-10-28 19:51:19.896257,,jobs in daleville alabama
+4,jobs in daleville alabama,"('jobs in daleville al', 'jobs hiring in daleville al')",jobs in daleville al,jobs hiring in daleville al,1,1,google,2025-10-28 19:51:20.690219,,jobs in daleville alabama
+5,jobs in daleville alabama,"('jobs in daleville al', 'jobs in daleville alabama')",jobs in daleville al,jobs in daleville alabama,2,1,google,2025-10-28 19:51:20.690219,,jobs in daleville alabama
+6,jobs in daleville alabama,"('jobs near daleville al', 'jobs hiring near daleville al')",jobs near daleville al,jobs hiring near daleville al,1,2,google,2025-10-28 19:51:22.137517,jobs in daleville alabama,jobs hiring in daleville al
+7,jobs in daleville alabama,"('jobs near daleville al', 'daleville alabama jobs')",jobs near daleville al,daleville alabama jobs,2,2,google,2025-10-28 19:51:22.137517,jobs in daleville alabama,jobs hiring in daleville al
+8,jobs in daleville alabama,"('daleville alabama jobs', 'daleville al jobs')",daleville alabama jobs,daleville al jobs,1,2,google,2025-10-28 19:51:22.995468,jobs in daleville alabama,jobs hiring in daleville al
+9,jobs in daleville alabama,"('daleville alabama jobs', 'daleville city schools jobs')",daleville alabama jobs,daleville city schools jobs,2,2,google,2025-10-28 19:51:22.995468,jobs in daleville alabama,jobs hiring in daleville al
+10,jobs in daleville alabama,"('jobs hiring near daleville al', 'jobs near daleville al')",jobs hiring near daleville al,jobs near daleville al,1,3,google,2025-10-28 19:51:23.911550,jobs hiring in daleville al,jobs near daleville al
+11,jobs in daleville alabama,"('jobs hiring near daleville al', 'daleville alabama jobs')",jobs hiring near daleville al,daleville alabama jobs,2,3,google,2025-10-28 19:51:23.911550,jobs hiring in daleville al,jobs near daleville al
+12,jobs in daleville alabama,"('daleville al jobs', 'city of daleville al jobs')",daleville al jobs,city of daleville al jobs,1,3,google,2025-10-28 19:51:24.697971,jobs hiring in daleville al,daleville alabama jobs
+13,jobs in daleville alabama,"('daleville al jobs', 'daleville alabama jobs')",daleville al jobs,daleville alabama jobs,2,3,google,2025-10-28 19:51:24.697971,jobs hiring in daleville al,daleville alabama jobs
+14,jobs in daleville alabama,"('daleville al jobs', 'dale county al jobs')",daleville al jobs,dale county al jobs,3,3,google,2025-10-28 19:51:24.697971,jobs hiring in daleville al,daleville alabama jobs
+15,jobs in daleville alabama,"('daleville city schools jobs', 'daleville schools jobs')",daleville city schools jobs,daleville schools jobs,1,3,google,2025-10-28 19:51:25.680227,jobs hiring in daleville al,daleville alabama jobs
+16,jobs in daleville alabama,"('daleville city schools jobs', 'daleville schools job openings')",daleville city schools jobs,daleville schools job openings,2,3,google,2025-10-28 19:51:25.680227,jobs hiring in daleville al,daleville alabama jobs
+17,jobs in daleville alabama,"('daleville city schools jobs', 'daleville community schools jobs')",daleville city schools jobs,daleville community schools jobs,3,3,google,2025-10-28 19:51:25.680227,jobs hiring in daleville al,daleville alabama jobs

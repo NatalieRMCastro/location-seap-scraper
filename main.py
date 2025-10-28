@@ -11,9 +11,6 @@ def main():
     city_list = pd.read_csv("USA City Locs.csv")
     loc_query_tails = city_list['City State Query'].to_list()
 
-    ## Adding in a few test queries just to test a smaller sample
-    loc_query_tails = ['Kirbyville Missouri', 'Warsaw Kentucky', 'Yakima Washington']
-
        
     ## Iterating through each seed query, assigning a variable to the seed
     for seed in loc_query_tails:

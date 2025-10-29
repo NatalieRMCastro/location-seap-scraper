@@ -1,0 +1,33 @@
+,root,edge,source,target,rank,depth,search_engine,datetime,grandparent,parent
+0,jobs in reform alabama,"('jobs in reform alabama', 'jobs in reform al')",jobs in reform alabama,jobs in reform al,1,0,google,2025-10-29 01:06:35.541925,,
+1,jobs in reform alabama,"('jobs in reform al', 'jobs at reform alliance')",jobs in reform al,jobs at reform alliance,1,1,google,2025-10-29 01:06:36.716598,,jobs in reform alabama
+2,jobs in reform alabama,"('jobs in reform al', 'jobs hiring reform al')",jobs in reform al,jobs hiring reform al,2,1,google,2025-10-29 01:06:36.716598,,jobs in reform alabama
+3,jobs in reform alabama,"('jobs in reform al', 'jobs in reform alabama')",jobs in reform al,jobs in reform alabama,3,1,google,2025-10-29 01:06:36.716598,,jobs in reform alabama
+4,jobs in reform alabama,"('jobs at reform alliance', 'reform alliance careers')",jobs at reform alliance,reform alliance careers,1,2,google,2025-10-29 01:06:38.041437,jobs in reform alabama,jobs in reform al
+5,jobs in reform alabama,"('jobs at reform alliance', 'reform alliance job fair')",jobs at reform alliance,reform alliance job fair,2,2,google,2025-10-29 01:06:38.041437,jobs in reform alabama,jobs in reform al
+6,jobs in reform alabama,"('jobs at reform alliance', 'reform alliance salary')",jobs at reform alliance,reform alliance salary,3,2,google,2025-10-29 01:06:38.041437,jobs in reform alabama,jobs in reform al
+7,jobs in reform alabama,"('jobs hiring reform al', 'jobs in reform al')",jobs hiring reform al,jobs in reform al,1,2,google,2025-10-29 01:06:39.307117,jobs in reform alabama,jobs in reform al
+8,jobs in reform alabama,"('jobs hiring reform al', 'jobs in reform alabama')",jobs hiring reform al,jobs in reform alabama,2,2,google,2025-10-29 01:06:39.307117,jobs in reform alabama,jobs in reform al
+9,jobs in reform alabama,"('jobs hiring reform al', 'reform alliance jobs')",jobs hiring reform al,reform alliance jobs,3,2,google,2025-10-29 01:06:39.307117,jobs in reform alabama,jobs in reform al
+10,jobs in reform alabama,"('reform alliance careers', 'reform alliance jobs')",reform alliance careers,reform alliance jobs,1,3,google,2025-10-29 01:06:40.518942,jobs in reform al,jobs at reform alliance
+11,jobs in reform alabama,"('reform alliance careers', 'reform alliance job fair')",reform alliance careers,reform alliance job fair,2,3,google,2025-10-29 01:06:40.518942,jobs in reform al,jobs at reform alliance
+12,jobs in reform alabama,"('reform alliance careers', 'what is reform alliance')",reform alliance careers,what is reform alliance,3,3,google,2025-10-29 01:06:40.518942,jobs in reform al,jobs at reform alliance
+13,jobs in reform alabama,"('reform alliance careers', 'reform alliance headquarters')",reform alliance careers,reform alliance headquarters,4,3,google,2025-10-29 01:06:40.518942,jobs in reform al,jobs at reform alliance
+14,jobs in reform alabama,"('reform alliance careers', 'reform alliance internship')",reform alliance careers,reform alliance internship,5,3,google,2025-10-29 01:06:40.518942,jobs in reform al,jobs at reform alliance
+15,jobs in reform alabama,"('reform alliance careers', 'reform alliance glassdoor')",reform alliance careers,reform alliance glassdoor,6,3,google,2025-10-29 01:06:40.518942,jobs in reform al,jobs at reform alliance
+16,jobs in reform alabama,"('reform alliance job fair', 'reform alliance careers')",reform alliance job fair,reform alliance careers,1,3,google,2025-10-29 01:06:41.933245,jobs in reform al,jobs at reform alliance
+17,jobs in reform alabama,"('reform alliance job fair', 'reform alliance jobs')",reform alliance job fair,reform alliance jobs,2,3,google,2025-10-29 01:06:41.933245,jobs in reform al,jobs at reform alliance
+18,jobs in reform alabama,"('reform alliance job fair', 'reform job fair')",reform alliance job fair,reform job fair,3,3,google,2025-10-29 01:06:41.933245,jobs in reform al,jobs at reform alliance
+19,jobs in reform alabama,"('reform alliance job fair', 'reform alliance salary')",reform alliance job fair,reform alliance salary,4,3,google,2025-10-29 01:06:41.933245,jobs in reform al,jobs at reform alliance
+20,jobs in reform alabama,"('reform alliance salary', 'reform alliance salary survey')",reform alliance salary,reform alliance salary survey,1,3,google,2025-10-29 01:06:42.830222,jobs in reform al,jobs at reform alliance
+21,jobs in reform alabama,"('reform alliance salary', 'reform alliance salary range')",reform alliance salary,reform alliance salary range,2,3,google,2025-10-29 01:06:42.830222,jobs in reform al,jobs at reform alliance
+22,jobs in reform alabama,"('reform alliance salary', 'reform alliance salary scale')",reform alliance salary,reform alliance salary scale,3,3,google,2025-10-29 01:06:42.830222,jobs in reform al,jobs at reform alliance
+23,jobs in reform alabama,"('reform alliance salary', 'reform alliance salary 2023')",reform alliance salary,reform alliance salary 2023,4,3,google,2025-10-29 01:06:42.830222,jobs in reform al,jobs at reform alliance
+24,jobs in reform alabama,"('reform alliance salary', 'reform alliance salary 2024')",reform alliance salary,reform alliance salary 2024,5,3,google,2025-10-29 01:06:42.830222,jobs in reform al,jobs at reform alliance
+25,jobs in reform alabama,"('reform alliance jobs', 'reform alliance job fair')",reform alliance jobs,reform alliance job fair,1,3,google,2025-10-29 01:06:44.270352,jobs in reform al,jobs hiring reform al
+26,jobs in reform alabama,"('reform alliance jobs', 'reform alliance careers')",reform alliance jobs,reform alliance careers,2,3,google,2025-10-29 01:06:44.270352,jobs in reform al,jobs hiring reform al
+27,jobs in reform alabama,"('reform alliance jobs', 'reform alliance hiring')",reform alliance jobs,reform alliance hiring,3,3,google,2025-10-29 01:06:44.270352,jobs in reform al,jobs hiring reform al
+28,jobs in reform alabama,"('reform alliance jobs', 'what is reform alliance')",reform alliance jobs,what is reform alliance,4,3,google,2025-10-29 01:06:44.270352,jobs in reform al,jobs hiring reform al
+29,jobs in reform alabama,"('reform alliance jobs', 'reform alliance headquarters')",reform alliance jobs,reform alliance headquarters,5,3,google,2025-10-29 01:06:44.270352,jobs in reform al,jobs hiring reform al
+30,jobs in reform alabama,"('reform alliance jobs', 'reform alliance founders')",reform alliance jobs,reform alliance founders,6,3,google,2025-10-29 01:06:44.270352,jobs in reform al,jobs hiring reform al
+31,jobs in reform alabama,"('reform alliance jobs', 'reform alliance salary')",reform alliance jobs,reform alliance salary,7,3,google,2025-10-29 01:06:44.270352,jobs in reform al,jobs hiring reform al

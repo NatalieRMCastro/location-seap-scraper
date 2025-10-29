@@ -31,6 +31,7 @@ def main():
         s = suggests.get_suggests(query, source='google')
         suggestion = {seed:s['suggests']}
         location_suggests.append(suggestion)
+        
         ## generating the tree from the suggests item
         tree = suggests.get_suggests_tree(query,source='google')
 
@@ -40,6 +41,7 @@ def main():
         ## generating the parents from the edges
         parents = suggests.add_parent_nodes(edges)
         location_pulls.append(parents)
+        
 
         ## Saving the SEAPs
         df = pd.concat(location_pulls)

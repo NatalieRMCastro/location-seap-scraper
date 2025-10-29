@@ -1,0 +1,102 @@
+,root,edge,source,target,rank,depth,search_engine,datetime,grandparent,parent
+0,jobs in hardy arkansas,"('jobs in hardy arkansas', 'jobs hiring in hardy arkansas')",jobs in hardy arkansas,jobs hiring in hardy arkansas,1,0,google,2025-10-29 19:46:57.494768,,
+1,jobs in hardy arkansas,"('jobs in hardy arkansas', 'jobs in hardy ar')",jobs in hardy arkansas,jobs in hardy ar,2,0,google,2025-10-29 19:46:57.494768,,
+2,jobs in hardy arkansas,"('jobs hiring in hardy arkansas', 'jobs near hardy arkansas')",jobs hiring in hardy arkansas,jobs near hardy arkansas,1,1,google,2025-10-29 19:46:58.556993,,jobs in hardy arkansas
+3,jobs in hardy arkansas,"('jobs hiring in hardy arkansas', 'jobs hardy ar')",jobs hiring in hardy arkansas,jobs hardy ar,2,1,google,2025-10-29 19:46:58.556993,,jobs in hardy arkansas
+4,jobs in hardy arkansas,"('jobs in hardy ar', 'jobs in hardy arkansas')",jobs in hardy ar,jobs in hardy arkansas,1,1,google,2025-10-29 19:46:59.702168,,jobs in hardy arkansas
+5,jobs in hardy arkansas,"('jobs in hardy ar', 'jobs hiring in hardy arkansas')",jobs in hardy ar,jobs hiring in hardy arkansas,2,1,google,2025-10-29 19:46:59.702168,,jobs in hardy arkansas
+6,jobs in hardy arkansas,"('jobs in hardy ar', 'jobs near hardy ar')",jobs in hardy ar,jobs near hardy ar,3,1,google,2025-10-29 19:46:59.702168,,jobs in hardy arkansas
+7,jobs in hardy arkansas,"('jobs in hardy ar', 'jobs in hardy va')",jobs in hardy ar,jobs in hardy va,4,1,google,2025-10-29 19:46:59.702168,,jobs in hardy arkansas
+8,jobs in hardy arkansas,"('jobs near hardy arkansas', 'jobs hiring near hardy ar')",jobs near hardy arkansas,jobs hiring near hardy ar,1,2,google,2025-10-29 19:47:01.029895,jobs in hardy arkansas,jobs hiring in hardy arkansas
+9,jobs in hardy arkansas,"('jobs near hardy arkansas', 'jobs near hardy ar')",jobs near hardy arkansas,jobs near hardy ar,2,2,google,2025-10-29 19:47:01.029895,jobs in hardy arkansas,jobs hiring in hardy arkansas
+10,jobs in hardy arkansas,"('jobs hardy ar', 'jobs hardy arkansas')",jobs hardy ar,jobs hardy arkansas,1,2,google,2025-10-29 19:47:02.231864,jobs in hardy arkansas,jobs hiring in hardy arkansas
+11,jobs in hardy arkansas,"('jobs hardy ar', 'indeed jobs hardy ar')",jobs hardy ar,indeed jobs hardy ar,2,2,google,2025-10-29 19:47:02.231864,jobs in hardy arkansas,jobs hiring in hardy arkansas
+12,jobs in hardy arkansas,"('jobs hardy ar', 'jobs near hardy ar')",jobs hardy ar,jobs near hardy ar,3,2,google,2025-10-29 19:47:02.231864,jobs in hardy arkansas,jobs hiring in hardy arkansas
+13,jobs in hardy arkansas,"('jobs hardy ar', 'jobs hiring hardy ar')",jobs hardy ar,jobs hiring hardy ar,4,2,google,2025-10-29 19:47:02.231864,jobs in hardy arkansas,jobs hiring in hardy arkansas
+14,jobs in hardy arkansas,"('jobs hardy ar', 'part time jobs hardy ar')",jobs hardy ar,part time jobs hardy ar,5,2,google,2025-10-29 19:47:02.231864,jobs in hardy arkansas,jobs hiring in hardy arkansas
+15,jobs in hardy arkansas,"('jobs hardy ar', 'jobs hardy va')",jobs hardy ar,jobs hardy va,6,2,google,2025-10-29 19:47:02.231864,jobs in hardy arkansas,jobs hiring in hardy arkansas
+16,jobs in hardy arkansas,"('jobs near hardy ar', 'jobs hiring near hardy ar')",jobs near hardy ar,jobs hiring near hardy ar,1,2,google,2025-10-29 19:47:03.264072,jobs in hardy arkansas,jobs in hardy ar
+17,jobs in hardy arkansas,"('jobs near hardy ar', 'hardy county jobs')",jobs near hardy ar,hardy county jobs,2,2,google,2025-10-29 19:47:03.264072,jobs in hardy arkansas,jobs in hardy ar
+18,jobs in hardy arkansas,"('jobs near hardy ar', 'jobs near hardy arkansas')",jobs near hardy ar,jobs near hardy arkansas,3,2,google,2025-10-29 19:47:03.264072,jobs in hardy arkansas,jobs in hardy ar
+19,jobs in hardy arkansas,"('jobs near hardy ar', 'jobs near hardy va')",jobs near hardy ar,jobs near hardy va,4,2,google,2025-10-29 19:47:03.264072,jobs in hardy arkansas,jobs in hardy ar
+20,jobs in hardy arkansas,"('jobs in hardy va', 'jobs in moneta va')",jobs in hardy va,jobs in moneta va,1,2,google,2025-10-29 19:47:04.296244,jobs in hardy arkansas,jobs in hardy ar
+21,jobs in hardy arkansas,"('jobs in hardy va', 'jobs in moneta va on indeed')",jobs in hardy va,jobs in moneta va on indeed,2,2,google,2025-10-29 19:47:04.296244,jobs in hardy arkansas,jobs in hardy ar
+22,jobs in hardy arkansas,"('jobs in hardy va', 'jobs hiring in moneta va')",jobs in hardy va,jobs hiring in moneta va,3,2,google,2025-10-29 19:47:04.296244,jobs in hardy arkansas,jobs in hardy ar
+23,jobs in hardy arkansas,"('jobs in hardy va', 'summer jobs in moneta va')",jobs in hardy va,summer jobs in moneta va,4,2,google,2025-10-29 19:47:04.296244,jobs in hardy arkansas,jobs in hardy ar
+24,jobs in hardy arkansas,"('jobs in hardy va', 'jobs moneta va remote')",jobs in hardy va,jobs moneta va remote,5,2,google,2025-10-29 19:47:04.296244,jobs in hardy arkansas,jobs in hardy ar
+25,jobs in hardy arkansas,"('jobs in hardy va', 'jobs moneta va goodwill')",jobs in hardy va,jobs moneta va goodwill,6,2,google,2025-10-29 19:47:04.296244,jobs in hardy arkansas,jobs in hardy ar
+26,jobs in hardy arkansas,"('jobs in hardy va', 'jobs in harden')",jobs in hardy va,jobs in harden,7,2,google,2025-10-29 19:47:04.296244,jobs in hardy arkansas,jobs in hardy ar
+27,jobs in hardy arkansas,"('jobs in hardy va', 'jobs in hardy ar')",jobs in hardy va,jobs in hardy ar,8,2,google,2025-10-29 19:47:04.296244,jobs in hardy arkansas,jobs in hardy ar
+28,jobs in hardy arkansas,"('jobs in hardy va', 'jobs in hardy arkansas')",jobs in hardy va,jobs in hardy arkansas,9,2,google,2025-10-29 19:47:04.296244,jobs in hardy arkansas,jobs in hardy ar
+29,jobs in hardy arkansas,"('jobs hiring near hardy ar', 'jobs not hiring near me')",jobs hiring near hardy ar,jobs not hiring near me,1,3,google,2025-10-29 19:47:05.640773,jobs hiring in hardy arkansas jobs in hardy ar,jobs near hardy arkansas jobs near hardy ar
+30,jobs in hardy arkansas,"('jobs hiring near hardy ar', 'jobs near hardy arkansas')",jobs hiring near hardy ar,jobs near hardy arkansas,2,3,google,2025-10-29 19:47:05.640773,jobs hiring in hardy arkansas jobs in hardy ar,jobs near hardy arkansas jobs near hardy ar
+31,jobs in hardy arkansas,"('jobs hiring near hardy ar', 'jobs near hardy ar')",jobs hiring near hardy ar,jobs near hardy ar,3,3,google,2025-10-29 19:47:05.640773,jobs hiring in hardy arkansas jobs in hardy ar,jobs near hardy arkansas jobs near hardy ar
+32,jobs in hardy arkansas,"('jobs hardy arkansas', 'jobs hiring in hardy arkansas')",jobs hardy arkansas,jobs hiring in hardy arkansas,1,3,google,2025-10-29 19:47:06.681765,jobs hiring in hardy arkansas,jobs hardy ar
+33,jobs in hardy arkansas,"('jobs hardy arkansas', 'jobs hardy ar')",jobs hardy arkansas,jobs hardy ar,2,3,google,2025-10-29 19:47:06.681765,jobs hiring in hardy arkansas,jobs hardy ar
+34,jobs in hardy arkansas,"('indeed jobs hardy ar', 'indeed port hardy jobs')",indeed jobs hardy ar,indeed port hardy jobs,1,3,google,2025-10-29 19:47:07.953838,jobs hiring in hardy arkansas,jobs hardy ar
+35,jobs in hardy arkansas,"('indeed jobs hardy ar', 'indeed jobs hardin mt')",indeed jobs hardy ar,indeed jobs hardin mt,2,3,google,2025-10-29 19:47:07.953838,jobs hiring in hardy arkansas,jobs hardy ar
+36,jobs in hardy arkansas,"('indeed jobs hardy ar', 'indeed jobs hardee county')",indeed jobs hardy ar,indeed jobs hardee county,3,3,google,2025-10-29 19:47:07.953838,jobs hiring in hardy arkansas,jobs hardy ar
+37,jobs in hardy arkansas,"('indeed jobs hardy ar', 'indeed jobs hardeeville sc')",indeed jobs hardy ar,indeed jobs hardeeville sc,4,3,google,2025-10-29 19:47:07.953838,jobs hiring in hardy arkansas,jobs hardy ar
+38,jobs in hardy arkansas,"('indeed jobs hardy ar', 'indeed jobs hardinsburg ky')",indeed jobs hardy ar,indeed jobs hardinsburg ky,5,3,google,2025-10-29 19:47:07.953838,jobs hiring in hardy arkansas,jobs hardy ar
+39,jobs in hardy arkansas,"('indeed jobs hardy ar', ""indeed hardee's"")",indeed jobs hardy ar,indeed hardee's,6,3,google,2025-10-29 19:47:07.953838,jobs hiring in hardy arkansas,jobs hardy ar
+40,jobs in hardy arkansas,"('jobs hiring hardy ar', 'jobs in hardy arkansas')",jobs hiring hardy ar,jobs in hardy arkansas,1,3,google,2025-10-29 19:47:09.310445,jobs hiring in hardy arkansas,jobs hardy ar
+41,jobs in hardy arkansas,"('jobs hiring hardy ar', 'jobs hardy ar')",jobs hiring hardy ar,jobs hardy ar,2,3,google,2025-10-29 19:47:09.310445,jobs hiring in hardy arkansas,jobs hardy ar
+42,jobs in hardy arkansas,"('part time jobs hardy ar', 'part time outside jobs')",part time jobs hardy ar,part time outside jobs,1,3,google,2025-10-29 19:47:10.246456,jobs hiring in hardy arkansas,jobs hardy ar
+43,jobs in hardy arkansas,"('part time jobs hardy ar', 'part time bodyguard jobs')",part time jobs hardy ar,part time bodyguard jobs,2,3,google,2025-10-29 19:47:10.246456,jobs hiring in hardy arkansas,jobs hardy ar
+44,jobs in hardy arkansas,"('part time jobs hardy ar', 'part time professions')",part time jobs hardy ar,part time professions,3,3,google,2025-10-29 19:47:10.246456,jobs hiring in hardy arkansas,jobs hardy ar
+45,jobs in hardy arkansas,"('part time jobs hardy ar', 'part time jobs hardy va')",part time jobs hardy ar,part time jobs hardy va,4,3,google,2025-10-29 19:47:10.246456,jobs hiring in hardy arkansas,jobs hardy ar
+46,jobs in hardy arkansas,"('part time jobs hardy ar', 'part time jobs hardinsburg ky')",part time jobs hardy ar,part time jobs hardinsburg ky,5,3,google,2025-10-29 19:47:10.246456,jobs hiring in hardy arkansas,jobs hardy ar
+47,jobs in hardy arkansas,"('part time jobs hardy ar', 'part time jobs hardeeville sc')",part time jobs hardy ar,part time jobs hardeeville sc,6,3,google,2025-10-29 19:47:10.246456,jobs hiring in hardy arkansas,jobs hardy ar
+48,jobs in hardy arkansas,"('part time jobs hardy ar', 'part time jobs harford county')",part time jobs hardy ar,part time jobs harford county,7,3,google,2025-10-29 19:47:10.246456,jobs hiring in hardy arkansas,jobs hardy ar
+49,jobs in hardy arkansas,"('part time jobs hardy ar', 'part time jobs hartville ohio')",part time jobs hardy ar,part time jobs hartville ohio,8,3,google,2025-10-29 19:47:10.246456,jobs hiring in hardy arkansas,jobs hardy ar
+50,jobs in hardy arkansas,"('jobs hardy va', 'jobs moneta va')",jobs hardy va,jobs moneta va,1,3,google,2025-10-29 19:47:11.443076,jobs hiring in hardy arkansas,jobs hardy ar
+51,jobs in hardy arkansas,"('jobs hardy va', 'jobs moneta va remote')",jobs hardy va,jobs moneta va remote,2,3,google,2025-10-29 19:47:11.443076,jobs hiring in hardy arkansas,jobs hardy ar
+52,jobs in hardy arkansas,"('jobs hardy va', 'jobs moneta va goodwill')",jobs hardy va,jobs moneta va goodwill,3,3,google,2025-10-29 19:47:11.443076,jobs hiring in hardy arkansas,jobs hardy ar
+53,jobs in hardy arkansas,"('jobs hardy va', 'kroger jobs hardy va')",jobs hardy va,kroger jobs hardy va,4,3,google,2025-10-29 19:47:11.443076,jobs hiring in hardy arkansas,jobs hardy ar
+54,jobs in hardy arkansas,"('jobs hardy va', 'part time jobs hardy va')",jobs hardy va,part time jobs hardy va,5,3,google,2025-10-29 19:47:11.443076,jobs hiring in hardy arkansas,jobs hardy ar
+55,jobs in hardy arkansas,"('jobs hardy va', 'jobs hiring near hardy va')",jobs hardy va,jobs hiring near hardy va,6,3,google,2025-10-29 19:47:11.443076,jobs hiring in hardy arkansas,jobs hardy ar
+56,jobs in hardy arkansas,"('jobs hardy va', 'jobs hardy ar')",jobs hardy va,jobs hardy ar,7,3,google,2025-10-29 19:47:11.443076,jobs hiring in hardy arkansas,jobs hardy ar
+57,jobs in hardy arkansas,"('hardy county jobs', 'hardee county jobs')",hardy county jobs,hardee county jobs,1,3,google,2025-10-29 19:47:12.313314,jobs in hardy ar,jobs near hardy ar
+58,jobs in hardy arkansas,"('hardy county jobs', 'hardee county jobs openings')",hardy county jobs,hardee county jobs openings,2,3,google,2025-10-29 19:47:12.313314,jobs in hardy ar,jobs near hardy ar
+59,jobs in hardy arkansas,"('hardy county jobs', 'hardee county jobs hiring')",hardy county jobs,hardee county jobs hiring,3,3,google,2025-10-29 19:47:12.313314,jobs in hardy ar,jobs near hardy ar
+60,jobs in hardy arkansas,"('hardy county jobs', 'hardee county jobs no degree')",hardy county jobs,hardee county jobs no degree,4,3,google,2025-10-29 19:47:12.313314,jobs in hardy ar,jobs near hardy ar
+61,jobs in hardy arkansas,"('hardy county jobs', 'hardy county job openings')",hardy county jobs,hardy county job openings,5,3,google,2025-10-29 19:47:12.313314,jobs in hardy ar,jobs near hardy ar
+62,jobs in hardy arkansas,"('hardy county jobs', 'hardy county schools jobs')",hardy county jobs,hardy county schools jobs,6,3,google,2025-10-29 19:47:12.313314,jobs in hardy ar,jobs near hardy ar
+63,jobs in hardy arkansas,"('hardy county jobs', 'hardy county wv jobs')",hardy county jobs,hardy county wv jobs,7,3,google,2025-10-29 19:47:12.313314,jobs in hardy ar,jobs near hardy ar
+64,jobs in hardy arkansas,"('hardy county jobs', 'hardy county schools jobs moorefield wv')",hardy county jobs,hardy county schools jobs moorefield wv,8,3,google,2025-10-29 19:47:12.313314,jobs in hardy ar,jobs near hardy ar
+65,jobs in hardy arkansas,"('hardy county jobs', 'hardy county courthouse jobs')",hardy county jobs,hardy county courthouse jobs,9,3,google,2025-10-29 19:47:12.313314,jobs in hardy ar,jobs near hardy ar
+66,jobs in hardy arkansas,"('jobs near hardy va', 'jobs near moneta va')",jobs near hardy va,jobs near moneta va,1,3,google,2025-10-29 19:47:13.765262,jobs in hardy ar,jobs near hardy ar
+67,jobs in hardy arkansas,"('jobs near hardy va', 'hiring near moneta va')",jobs near hardy va,hiring near moneta va,2,3,google,2025-10-29 19:47:13.765262,jobs in hardy ar,jobs near hardy ar
+68,jobs in hardy arkansas,"('jobs near hardy va', 'jobs hiring near hardy va')",jobs near hardy va,jobs hiring near hardy va,3,3,google,2025-10-29 19:47:13.765262,jobs in hardy ar,jobs near hardy ar
+69,jobs in hardy arkansas,"('jobs near hardy va', 'jobs hiring near moneta va')",jobs near hardy va,jobs hiring near moneta va,4,3,google,2025-10-29 19:47:13.765262,jobs in hardy ar,jobs near hardy ar
+70,jobs in hardy arkansas,"('jobs near hardy va', 'jobs near hardyville va')",jobs near hardy va,jobs near hardyville va,5,3,google,2025-10-29 19:47:13.765262,jobs in hardy ar,jobs near hardy ar
+71,jobs in hardy arkansas,"('jobs near hardy va', 'jobs near hardy arkansas')",jobs near hardy va,jobs near hardy arkansas,6,3,google,2025-10-29 19:47:13.765262,jobs in hardy ar,jobs near hardy ar
+72,jobs in hardy arkansas,"('jobs near hardy va', 'jobs near hardy ar')",jobs near hardy va,jobs near hardy ar,7,3,google,2025-10-29 19:47:13.765262,jobs in hardy ar,jobs near hardy ar
+73,jobs in hardy arkansas,"('jobs in moneta va', 'jobs in moneta va on indeed')",jobs in moneta va,jobs in moneta va on indeed,1,3,google,2025-10-29 19:47:15.158094,jobs in hardy ar,jobs in hardy va
+74,jobs in hardy arkansas,"('jobs in moneta va', 'jobs hiring in moneta va')",jobs in moneta va,jobs hiring in moneta va,2,3,google,2025-10-29 19:47:15.158094,jobs in hardy ar,jobs in hardy va
+75,jobs in hardy arkansas,"('jobs in moneta va', 'summer jobs in moneta va')",jobs in moneta va,summer jobs in moneta va,3,3,google,2025-10-29 19:47:15.158094,jobs in hardy ar,jobs in hardy va
+76,jobs in hardy arkansas,"('jobs in moneta va', 'jobs moneta va remote')",jobs in moneta va,jobs moneta va remote,4,3,google,2025-10-29 19:47:15.158094,jobs in hardy ar,jobs in hardy va
+77,jobs in hardy arkansas,"('jobs in moneta va', 'jobs moneta va goodwill')",jobs in moneta va,jobs moneta va goodwill,5,3,google,2025-10-29 19:47:15.158094,jobs in hardy ar,jobs in hardy va
+78,jobs in hardy arkansas,"('jobs in moneta va', 'part time jobs in moneta va')",jobs in moneta va,part time jobs in moneta va,6,3,google,2025-10-29 19:47:15.158094,jobs in hardy ar,jobs in hardy va
+79,jobs in hardy arkansas,"('jobs in moneta va', 'highest paying jobs in moneta va')",jobs in moneta va,highest paying jobs in moneta va,7,3,google,2025-10-29 19:47:15.158094,jobs in hardy ar,jobs in hardy va
+80,jobs in hardy arkansas,"('jobs in moneta va', 'jobs in moneta virginia')",jobs in moneta va,jobs in moneta virginia,8,3,google,2025-10-29 19:47:15.158094,jobs in hardy ar,jobs in hardy va
+81,jobs in hardy arkansas,"('jobs in moneta va on indeed', 'jobs in moneta va')",jobs in moneta va on indeed,jobs in moneta va,1,3,google,2025-10-29 19:47:16.173309,jobs in hardy ar,jobs in hardy va
+82,jobs in hardy arkansas,"('jobs in moneta va on indeed', 'indeed va jobs')",jobs in moneta va on indeed,indeed va jobs,2,3,google,2025-10-29 19:47:16.173309,jobs in hardy ar,jobs in hardy va
+83,jobs in hardy arkansas,"('jobs in moneta va on indeed', 'jobs in moneta virginia')",jobs in moneta va on indeed,jobs in moneta virginia,3,3,google,2025-10-29 19:47:16.173309,jobs in hardy ar,jobs in hardy va
+84,jobs in hardy arkansas,"('jobs in moneta va on indeed', 'indeed moneta va')",jobs in moneta va on indeed,indeed moneta va,4,3,google,2025-10-29 19:47:16.173309,jobs in hardy ar,jobs in hardy va
+85,jobs in hardy arkansas,"('jobs hiring in moneta va', 'jobs near moneta va')",jobs hiring in moneta va,jobs near moneta va,1,3,google,2025-10-29 19:47:17.127196,jobs in hardy ar,jobs in hardy va
+86,jobs in hardy arkansas,"('jobs hiring in moneta va', 'jobs hiring in moneta')",jobs hiring in moneta va,jobs hiring in moneta,2,3,google,2025-10-29 19:47:17.127196,jobs in hardy ar,jobs in hardy va
+87,jobs in hardy arkansas,"('jobs hiring in moneta va', 'jobs in moneta virginia')",jobs hiring in moneta va,jobs in moneta virginia,3,3,google,2025-10-29 19:47:17.127196,jobs in hardy ar,jobs in hardy va
+88,jobs in hardy arkansas,"('summer jobs in moneta va', 'part time jobs in moneta va')",summer jobs in moneta va,part time jobs in moneta va,1,3,google,2025-10-29 19:47:18.558199,jobs in hardy ar,jobs in hardy va
+89,jobs in hardy arkansas,"('summer jobs in moneta va', 'moneta va jobs')",summer jobs in moneta va,moneta va jobs,2,3,google,2025-10-29 19:47:18.558199,jobs in hardy ar,jobs in hardy va
+90,jobs in hardy arkansas,"('summer jobs in moneta va', 'jobs in moneta')",summer jobs in moneta va,jobs in moneta,3,3,google,2025-10-29 19:47:18.558199,jobs in hardy ar,jobs in hardy va
+91,jobs in hardy arkansas,"('summer jobs in moneta va', 'jobs in moneta virginia')",summer jobs in moneta va,jobs in moneta virginia,4,3,google,2025-10-29 19:47:18.558199,jobs in hardy ar,jobs in hardy va
+92,jobs in hardy arkansas,"('jobs moneta va remote', 'moneta va jobs')",jobs moneta va remote,moneta va jobs,1,3,google,2025-10-29 19:47:19.696339,jobs in hardy ar,jobs in hardy va
+93,jobs in hardy arkansas,"('jobs moneta va remote', 'remote va jobs')",jobs moneta va remote,remote va jobs,2,3,google,2025-10-29 19:47:19.696339,jobs in hardy ar,jobs in hardy va
+94,jobs in hardy arkansas,"('jobs moneta va remote', 'veterans administration remote jobs')",jobs moneta va remote,veterans administration remote jobs,3,3,google,2025-10-29 19:47:19.696339,jobs in hardy ar,jobs in hardy va
+95,jobs in hardy arkansas,"('jobs moneta va remote', 'jobs in moneta virginia')",jobs moneta va remote,jobs in moneta virginia,4,3,google,2025-10-29 19:47:19.696339,jobs in hardy ar,jobs in hardy va
+96,jobs in hardy arkansas,"('jobs moneta va goodwill', 'how much does goodwill pay in virginia')",jobs moneta va goodwill,how much does goodwill pay in virginia,1,3,google,2025-10-29 19:47:20.675999,jobs in hardy ar,jobs in hardy va
+97,jobs in hardy arkansas,"('jobs moneta va goodwill', 'moneta va jobs')",jobs moneta va goodwill,moneta va jobs,2,3,google,2025-10-29 19:47:20.675999,jobs in hardy ar,jobs in hardy va
+98,jobs in hardy arkansas,"('jobs moneta va goodwill', 'goodwill moneta virginia')",jobs moneta va goodwill,goodwill moneta virginia,3,3,google,2025-10-29 19:47:20.675999,jobs in hardy ar,jobs in hardy va
+99,jobs in hardy arkansas,"('jobs moneta va goodwill', 'goodwill moneta va')",jobs moneta va goodwill,goodwill moneta va,4,3,google,2025-10-29 19:47:20.675999,jobs in hardy ar,jobs in hardy va
+100,jobs in hardy arkansas,"('jobs moneta va goodwill', 'goodwill moneta')",jobs moneta va goodwill,goodwill moneta,5,3,google,2025-10-29 19:47:20.675999,jobs in hardy ar,jobs in hardy va

@@ -1,0 +1,6 @@
+,root,edge,source,target,rank,depth,search_engine,datetime,grandparent,parent
+0,jobs in wadley alabama,"('jobs in wadley alabama', 'jobs in wadley al')",jobs in wadley alabama,jobs in wadley al,1,0,google,2025-10-29 15:20:47.219128,,
+1,jobs in wadley alabama,"('jobs in wadley alabama', 'jobs in wadley ga')",jobs in wadley alabama,jobs in wadley ga,2,0,google,2025-10-29 15:20:47.219128,,
+2,jobs in wadley alabama,"('jobs in wadley al', 'jobs in wadley alabama')",jobs in wadley al,jobs in wadley alabama,1,1,google,2025-10-29 15:20:48.409179,,jobs in wadley alabama
+3,jobs in wadley alabama,"('jobs in wadley al', 'jobs in wadley ga')",jobs in wadley al,jobs in wadley ga,2,1,google,2025-10-29 15:20:48.409179,,jobs in wadley alabama
+4,jobs in wadley alabama,"('jobs in wadley ga', 'jobs in wadley al')",jobs in wadley ga,jobs in wadley al,1,1,google,2025-10-29 15:20:49.381832,,jobs in wadley alabama

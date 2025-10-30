@@ -1,10 +1,10 @@
 ,root,edge,source,target,rank,depth,search_engine,datetime,grandparent,parent
-0,jobs in mccrory arkansas,"('jobs in mccrory arkansas', 'jobs hiring in mccrory ar')",jobs in mccrory arkansas,jobs hiring in mccrory ar,1,0,google,2025-10-29 22:07:38.643783,,
-1,jobs in mccrory arkansas,"('jobs in mccrory arkansas', 'jobs in mccrory ar')",jobs in mccrory arkansas,jobs in mccrory ar,2,0,google,2025-10-29 22:07:38.643783,,
-2,jobs in mccrory arkansas,"('jobs hiring in mccrory ar', 'jobs near mccrory ar')",jobs hiring in mccrory ar,jobs near mccrory ar,1,1,google,2025-10-29 22:07:40.091114,,jobs in mccrory arkansas
-3,jobs in mccrory arkansas,"('jobs hiring in mccrory ar', 'jobs in mccrory arkansas')",jobs hiring in mccrory ar,jobs in mccrory arkansas,2,1,google,2025-10-29 22:07:40.091114,,jobs in mccrory arkansas
-4,jobs in mccrory arkansas,"('jobs in mccrory ar', 'jobs hiring in mccrory ar')",jobs in mccrory ar,jobs hiring in mccrory ar,1,1,google,2025-10-29 22:07:41.369676,,jobs in mccrory arkansas
-5,jobs in mccrory arkansas,"('jobs in mccrory ar', 'jobs in mccrory arkansas')",jobs in mccrory ar,jobs in mccrory arkansas,2,1,google,2025-10-29 22:07:41.369676,,jobs in mccrory arkansas
-6,jobs in mccrory arkansas,"('jobs near mccrory ar', 'jobs hiring near mccrory ar')",jobs near mccrory ar,jobs hiring near mccrory ar,1,2,google,2025-10-29 22:07:42.722033,jobs in mccrory arkansas,jobs hiring in mccrory ar
-7,jobs in mccrory arkansas,"('jobs near mccrory ar', 'jobs in mccrory arkansas')",jobs near mccrory ar,jobs in mccrory arkansas,2,2,google,2025-10-29 22:07:42.722033,jobs in mccrory arkansas,jobs hiring in mccrory ar
-8,jobs in mccrory arkansas,"('jobs hiring near mccrory ar', 'jobs near mccrory ar')",jobs hiring near mccrory ar,jobs near mccrory ar,1,3,google,2025-10-29 22:07:43.575897,jobs hiring in mccrory ar,jobs near mccrory ar
+0,jobs in mccrory arkansas,"('jobs in mccrory arkansas', 'jobs hiring in mccrory ar')",jobs in mccrory arkansas,jobs hiring in mccrory ar,1,0,google,2025-10-30 16:31:24.716547,,
+1,jobs in mccrory arkansas,"('jobs in mccrory arkansas', 'jobs in mccrory ar')",jobs in mccrory arkansas,jobs in mccrory ar,2,0,google,2025-10-30 16:31:24.716547,,
+2,jobs in mccrory arkansas,"('jobs hiring in mccrory ar', 'jobs near mccrory ar')",jobs hiring in mccrory ar,jobs near mccrory ar,1,1,google,2025-10-30 16:31:25.985745,,jobs in mccrory arkansas
+3,jobs in mccrory arkansas,"('jobs hiring in mccrory ar', 'jobs in mccrory arkansas')",jobs hiring in mccrory ar,jobs in mccrory arkansas,2,1,google,2025-10-30 16:31:25.985745,,jobs in mccrory arkansas
+4,jobs in mccrory arkansas,"('jobs in mccrory ar', 'jobs hiring in mccrory ar')",jobs in mccrory ar,jobs hiring in mccrory ar,1,1,google,2025-10-30 16:31:27.324374,,jobs in mccrory arkansas
+5,jobs in mccrory arkansas,"('jobs in mccrory ar', 'jobs in mccrory arkansas')",jobs in mccrory ar,jobs in mccrory arkansas,2,1,google,2025-10-30 16:31:27.324374,,jobs in mccrory arkansas
+6,jobs in mccrory arkansas,"('jobs near mccrory ar', 'jobs hiring near mccrory ar')",jobs near mccrory ar,jobs hiring near mccrory ar,1,2,google,2025-10-30 16:31:28.460907,jobs in mccrory arkansas,jobs hiring in mccrory ar
+7,jobs in mccrory arkansas,"('jobs near mccrory ar', 'jobs in mccrory arkansas')",jobs near mccrory ar,jobs in mccrory arkansas,2,2,google,2025-10-30 16:31:28.460907,jobs in mccrory arkansas,jobs hiring in mccrory ar
+8,jobs in mccrory arkansas,"('jobs hiring near mccrory ar', 'jobs near mccrory ar')",jobs hiring near mccrory ar,jobs near mccrory ar,1,3,google,2025-10-30 16:31:29.586478,jobs hiring in mccrory ar,jobs near mccrory ar
